@@ -12,9 +12,9 @@
 
 ### :red_circle: 交流群: star后带上你的github账号加群,否则一律拒绝
 
-#### 企鹅群
+### 点击链接加入群聊【毒奶粉研究院】：https://qm.qq.com/q/hedws1v2cS
 
-<img src="static/qq.png" alt="alt text" width="276" height="319"> 
+### 点击链接加入群聊【毒奶粉研究院】：https://t.me/+D3V4dfGWE_JjYzU1
 
 ## Stargazers over time
 
